@@ -1,6 +1,6 @@
 # NLW#3 – Trilha OmniStack Workshop 
 
-- Tecnologias:
+Tecnologias:
 
 - Node.js
 
